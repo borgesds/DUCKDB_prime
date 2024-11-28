@@ -1,0 +1,10 @@
+{"user_id":101,"name":"John Doe","age":28,"purchase_amount":250.75,"purchase_date":"2024-08-01"}
+{"user_id":102,"name":"Jane Smith","age":34,"purchase_amount":300.0,"purchase_date":"2024-08-02"}
+{"user_id":103,"name":"Alice Johnson","age":23,"purchase_amount":120.5,"purchase_date":"2024-08-03"}
+{"user_id":104,"name":"Chris Evans","age":45,"purchase_amount":450.0,"purchase_date":"2024-08-04"}
+{"user_id":105,"name":"Emily Davis","age":30,"purchase_amount":80.0,"purchase_date":"2024-08-05"}
+{"user_id":106,"name":"Michael Brown","age":40,"purchase_amount":199.99,"purchase_date":"2024-08-06"}
+{"user_id":107,"name":"Jessica Taylor","age":29,"purchase_amount":349.99,"purchase_date":"2024-08-07"}
+{"user_id":108,"name":"Daniel Wilson","age":35,"purchase_amount":220.0,"purchase_date":"2024-08-08"}
+{"user_id":109,"name":"Laura Clark","age":27,"purchase_amount":110.75,"purchase_date":"2024-08-09"}
+{"user_id":110,"name":"Robert Lewis","age":31,"purchase_amount":500.0,"purchase_date":"2024-08-10"}
