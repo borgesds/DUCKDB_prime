@@ -1,2 +1,6 @@
 1- Instale as bibliotecas que estão no requirement:
     pip install -r requirements.txt
+
+2- caso de erro nos graficos:
+    pip install --upgrade nbformat
+    pip install --upgrade plotly
